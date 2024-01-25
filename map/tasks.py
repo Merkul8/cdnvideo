@@ -39,5 +39,10 @@ def get_two_cities(lat, lon):
     distances.sort()
 
     # Берем первые два города
-    closest_cities = [city for _, city in distances[:2]]
+    closest_cities = [{
+        'id': city.id, 
+        'name': city.name, 
+        'latitude': city.latitude,
+        'longitude': city.longitude
+        } for _, city in distances[:2]]
     return closest_cities
