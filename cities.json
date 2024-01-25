@@ -1,0 +1,74 @@
+[
+    {
+        "model": "map.city",
+        "pk": 1,
+        "fields": {
+            "name": "Москва",
+            "latitude": 55.7522,
+            "longitude": 37.6156
+        }
+    },
+    {
+        "model": "map.city",
+        "pk": 2,
+        "fields": {
+            "name": "Вашингтон",
+            "latitude": 38.8951,
+            "longitude": 77.0364
+        }
+    },
+    {
+        "model": "map.city",
+        "pk": 3,
+        "fields": {
+            "name": "Париж",
+            "latitude": 48.85661,
+            "longitude": 2.35222
+        }
+    },
+    {
+        "model": "map.city",
+        "pk": 4,
+        "fields": {
+            "name": "Лиссабон",
+            "latitude": 38.7167,
+            "longitude": -9.13333
+        }
+    },
+    {
+        "model": "map.city",
+        "pk": 5,
+        "fields": {
+            "name": "Берлин",
+            "latitude": 52.5166,
+            "longitude": 13.3833
+        }
+    },
+    {
+        "model": "map.city",
+        "pk": 6,
+        "fields": {
+            "name": "Будапешт",
+            "latitude": 47.5166,
+            "longitude": 19.0833
+        }
+    },
+    {
+        "model": "map.city",
+        "pk": 7,
+        "fields": {
+            "name": "Мадрид",
+            "latitude": 40.4165,
+            "longitude": -3.70256
+        }
+    },
+    {
+        "model": "map.city",
+        "pk": 8,
+        "fields": {
+            "name": "Пекин",
+            "latitude": 39.9075,
+            "longitude": 116.397
+        }
+    }
+]
